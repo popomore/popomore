@@ -11,7 +11,8 @@ I’m a software engineer at [Seele AI](https://www.seeles.ai?utm_source=github)
 - Previously: [@Alipay](https://github.com/alipay)
 
 ### Core Project
-- **[@eggjs](https://github.com/eggjs)** — enterprise Node.js framework experience (designing, building, and maintaining services) 
+- **[eggjs](https://github.com/eggjs)** — enterprise Node.js framework experience (designing, building, and maintaining services)
+- **[Projj](https://github.com/popomore/projj)** - Manage git repositories with directory conventions — clone once, find instantly
 
 ### What I Believe
 I love coding, and I’m always embracing AI to ship faster and build better.
